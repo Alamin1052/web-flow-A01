@@ -17,6 +17,8 @@
     padding: 12px 36px ;
 }
 
+/* Header Style Start */
+
 header{
     background-image: url(/Assets/Hero-bg.png);
     height: 700px;
@@ -56,4 +58,34 @@ header{
 }
 
 /* Banner Style End */
+/* Header Style End */
 
+/* Main Style Start */
+/* Action style Start */
+
+.action{
+    max-width: 1140px ;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+    align-items: center;
+}
+
+.action-title{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.action-description{
+    color: #252432;
+    font-size: 24px ;
+    margin: 25px 0px ;
+}
+
+.action-img{
+    border-radius: 50px;
+}
+
+/* Action style End */
+/* Main Style End */
