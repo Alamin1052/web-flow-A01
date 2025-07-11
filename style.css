@@ -17,6 +17,22 @@
     padding: 12px 36px ;
 }
 
+.btn:hover{
+    transform: scale(1.25);
+    transition: 1.5s;
+    background-color: #460080fa;
+}
+
+.input-btn:hover{
+    transform: scale(1.25);
+    transition: 1.5s;
+    background-color: #460080fa;
+}
+
+body{
+    background-color: rgba(234, 242, 253, 0.747);
+}
+
 /* Header Style Start */
 
 header{
